@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yankee1231/Yankee1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Resume of SeongMin
+> Comment.   
+> 2023년 09월에 적는 상상 이력서로써 이는 실제로 존재하지 않는 이력서로써 미래에 계획된 나의 이력과 학력 등을 적어놓았다. 이를 통해서 내가 취업을 하고 싶은 회사에 적합한 인재로서 성장하기 위한 계획서라고 할 수 있다.
