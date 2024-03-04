@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Resume of SeongMin
 
-Welcome to SeongMin's Github
+Welcome to SeongMin's Github  
 This is SeongMin, who wants to be a creative Electric Vehicle Engineer
 
  
