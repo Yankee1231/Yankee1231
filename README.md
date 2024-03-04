@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Resume of SeongMin
-> Comment.   
+Welcome to SeongMin's Github
+
+ 
 
